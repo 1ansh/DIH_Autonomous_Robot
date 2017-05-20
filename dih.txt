@@ -1,9 +1,15 @@
+
+#WEEK1-2
 Collecting training sets for object detection and writing the code for Haar feature-based cascade classifiers.
 
+#WEEK3-4
 Classification the objects(Stop sign and traffic lights) would be done along with image processing tasks.
 
+#WEEK5-6
 Collecting training set for Neural Network training and making of the robot.
 
+#WEEK7-8
 Training of the Neural Network will be done.Once the network is trained, it only needs to load trained parameters afterwards, thus prediction can be very fast.
 
+#WEEK8+
 Additional features required for the project will be accomplished.
