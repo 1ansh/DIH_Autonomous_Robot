@@ -1,2 +1,2 @@
-# dih_autonomous_car
+# Autonomous_Robot
 DIH project.
